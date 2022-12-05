@@ -1,1 +1,1 @@
-# Student-Performance-Prediction-Project
+# Machine_Learning_Student_Performance_Prediction
